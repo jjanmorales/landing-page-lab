@@ -22,5 +22,14 @@ html{
 }
 
 .bluebox {
+    display: inline-block;
+    background-color: cadetblue;
     
+}
+.bold{
+    font-weight: bold;
+
+}
+.header2{
+    padding-left: 10px;
 }
