@@ -12,8 +12,8 @@ html{
     background-color: lavender;
     text-align: center;
     margin-top: -40px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
     position: absolute;
     right: 50px;
     left: 50px;
@@ -34,13 +34,16 @@ html{
     background-color: cadetblue;
     position: absolute;
     top: 276px;
-    left: 100px;
-    height: 500px;
+    left: 350px;
+    right: 250px;
+    height: 700px;
+    width: 400px;
     
     
 }
 .bold{
     font-weight: bold;
+    font-size: larger;
 
 }
 .header2{
@@ -50,11 +53,22 @@ html{
 .whitebox {
     display: inline-block;
     background-color: white;
-    width: 500px;
-    height: 500px;
+    width: 803px;
+    height: 700px;
     padding: 15px 30px 50px 50px;
     position: absolute;
     top: 276px;
-    left: 280px;
-    
+    left: 750px;
+    margin-right: 50px;
+}
+
+p {
+    font-size: larger;
+}
+
+.photo {
+    position: absolute;
+    bottom: 50px;
+    width: 400px;
+    height: 300px;
 }
