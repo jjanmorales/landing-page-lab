@@ -6,7 +6,21 @@ html{
 .lightgray{
     background-color: lavender;
     text-align: center;
-    margin-top: -22px;
+    margin-top: -40px;
     margin-left: 50px;
     margin-right: 50px;
+}
+
+.h1 {
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.date {
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+
+.bluebox {
+    
 }
