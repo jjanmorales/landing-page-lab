@@ -37,6 +37,7 @@ html{
     left: 100px;
     height: 500px;
     
+    
 }
 .bold{
     font-weight: bold;
@@ -51,5 +52,9 @@ html{
     background-color: white;
     width: 500px;
     height: 500px;
-    padding: 15px 30px 50px;
+    padding: 15px 30px 50px 50px;
+    position: absolute;
+    top: 276px;
+    left: 280px;
+    
 }
